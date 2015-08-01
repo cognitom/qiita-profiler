@@ -1,0 +1,20 @@
+{
+  "name": "qiita-profiler",
+  "version": "0.0.0",
+  "description": "Simple Profiler for Qiita",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cognitom/qiita-profiler.git"
+  },
+  "author": "Tsutomu Kawamura <cognitom@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "qiita",
+    "api"
+  ],
+  "devDependencies": {
+    "coffee-script": "^1.9.3",
+    "gulp": "^3.9.0",
+    "request-promise": "^0.4.3"
+  }
+}
